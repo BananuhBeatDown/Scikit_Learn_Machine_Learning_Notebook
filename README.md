@@ -11,7 +11,7 @@ A Jupyter notebook exploring machine learning techniques using scikit-learn and 
 - Logistic regression
 - K nearest neighbor
 - Visualizing data using seaborn
-- using train_test_split to create training and testing sets from a dataset
+- Using train_test_split to create training and testing sets from a dataset
 - Interpreting model coefficients
 - Making predictions
 - Model evaluation metrics for regression
