@@ -25,4 +25,3 @@ A Jupyter notebook exploring machine learning techniques using scikit-learn and 
 - Classification error, sensitivity, specificity, false positive rate
 - Classification threshold
 - ROC Curves and Area under the curve
-- 
