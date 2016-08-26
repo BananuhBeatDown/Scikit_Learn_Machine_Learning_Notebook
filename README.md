@@ -25,3 +25,17 @@ A Jupyter notebook exploring machine learning techniques using scikit-learn and 
 - Classification error, sensitivity, specificity, false positive rate
 - Classification threshold
 - ROC Curves and Area under the curve
+ 
+# Machine Learning with Text in scikit-learn
+Building and evaluating predictive models from real-world text using scikit-learn, based off Kevin Markham's class at pycon 2016.
+
+## Topic include:
+- Model building in scikit-learn (refresher)
+- Representing text as numerical data
+- Reading a text-based dataset into pandas
+- Vectorizing our dataset
+- Building and evaluating models
+- Comparing models
+- Examining a model for further insight
+- Practicing this workflow on another dataset
+- Tuning the vectorizer (discussion)
