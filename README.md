@@ -26,7 +26,7 @@ A Jupyter notebook exploring machine learning techniques using scikit-learn and 
 - Classification threshold
 - ROC Curves and Area under the curve
  
-# Machine Learning with Text in scikit-learn
+# Machine_Learning_with_Text_in_scikit-learn notebook
 Building and evaluating predictive models from real-world text using scikit-learn, based off Kevin Markham's class at pycon 2016.
 
 ## Topic include:
